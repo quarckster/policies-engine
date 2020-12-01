@@ -65,7 +65,7 @@
       <dependency>
         <groupId>org.infinispan</groupId>
         <artifactId>infinispan-cachestore-rocksdb</artifactId>
-        <version>10.1.9-20200703.101427-1</version>
+        <version>12.0.0.Dev07</version>
       </dependency>
 
       <dependency>
